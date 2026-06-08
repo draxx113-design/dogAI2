@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/draxx113-design/dog-game1.git/static/css/main.e0ee146d.css",
+    "main.js": "/draxx113-design/dog-game1.git/static/js/main.c6f02dbe.js",
+    "index.html": "/draxx113-design/dog-game1.git/index.html",
+    "main.e0ee146d.css.map": "/draxx113-design/dog-game1.git/static/css/main.e0ee146d.css.map",
+    "main.c6f02dbe.js.map": "/draxx113-design/dog-game1.git/static/js/main.c6f02dbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0ee146d.css",
+    "static/js/main.c6f02dbe.js"
+  ]
+}
